@@ -1,0 +1,5 @@
+function sen(str) {
+    return str.length;
+}
+
+console.log(sen("abc")); // Output: 3
